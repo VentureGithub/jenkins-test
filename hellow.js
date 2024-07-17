@@ -1,10 +1,3 @@
-console.log("test of jenkins ");
-console.log("test of jenkins ");
-console.log("test of jenkins ");
-console.log("test of jenkins ");
-console.log("test of jenkins ");
-console.log("test of jenkins ");
-console.log("test of jenkins ");
-console.log("test of jenkins ");
-console.log("test of jenkins ");
-console.log("after poll ");
+console.log("test of jenkins "0000);
+
+ console.log xzz42385@gmail.com );
